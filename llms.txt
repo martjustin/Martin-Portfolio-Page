@@ -1,0 +1,40 @@
+# Martin Azihaiwe-Justin
+
+> Software Quality Assurance Engineer | Automation Test Engineer in Lagos, Nigeria (WAT, UTC+1). Works on functional and exploratory testing, API testing (Postman), SQL data validation, Playwright/TypeScript and Python/Pytest automation, CI test reporting, and evaluation of AI/LLM features. Brings 8+ years of operations and process-control experience from before software. Open to Software Quality Assurance Engineer and Automation Test Engineer roles, including AI testing, (remote, hybrid, Lagos) and to fixed-price contract QA work.
+
+Positioning: Quality at altitude. Test suites that fly ahead of the release.
+
+## Role titles he is searchable under
+Software Quality Assurance Engineer, Automation Test Engineer, QA Engineer, Test Automation Engineer, AI Testing Engineer, Functional Test Analyst, Software Tester.
+
+## Core skills
+- Functional, exploratory, regression and end-to-end testing
+- API testing with Postman; SQL and database validation
+- Playwright + TypeScript (Page Object Model); Python + Pytest
+- CI/CD test runs and reporting (GitHub Actions); Jira defect triage; UAT coordination
+- AI/LLM evaluation: grounding, consistency, relevance, regression; hallucination and misclassification probes
+- Lean Six Sigma (Green Belt), root-cause analysis, KPI monitoring (Power BI)
+
+## Experience
+- Software Quality Assurance Engineer | Automation Test Engineer, OneFlare Technology Solutions (Jan 2025 – present): sprint test planning for a high-volume eCommerce ERP; scripted, exploratory and cross-browser testing; Postman API checks and SQL data validation; Jira triage; UAT and release readiness.
+- QA Engineer, Functional & Integration Testing, Genesis Digital Labs (Jan 2024 – Jan 2025): tested AI-driven systems and full-stack web apps; Python/SQL data-pipeline validation; coverage reports and risk analyses.
+- Operations & Logistics Analytics roles, Nigerian Breweries (Heineken) (Dec 2015 – May 2023): production shifts and logistics analytics; root-cause analysis, KPI monitoring, Lean Six Sigma.
+
+## Projects
+- E-commerce Automation Framework (open source): Playwright + TypeScript, Page Object Model, CI, and LLM-drafted root-cause notes for failed tests. https://github.com/martjustin/E-commerce_Automation-Framework
+- Hotel Management System suite (client beta, private): Playwright + TypeScript framework that removed 24+ hours of manual regression per week.
+- BugReel Pro (product build, 85% complete): mobile-first bug capture for freelance testers; cuts report time from 15–25 minutes to under 4.
+
+## Contract services (fixed quote after a free 30-minute call)
+Release-risk review (QA audit) · Regression automation · AI feature evaluation · Embedded sprint QA.
+
+## Certifications
+ISTQB Foundation Level (CTFL, in progress 2026), Software Testing (Power Learning Africa), Agile Methodology (HP), Lean Six Sigma Green Belt (Heineken International, 2016).
+
+## Links
+- Portfolio: https://martjustin.vercel.app/
+- Résumé (PDF): https://martjustin.vercel.app/assets/Martin_Azihaiwe-Justin_Resume.pdf
+- LinkedIn: https://www.linkedin.com/in/justin808
+- GitHub: https://github.com/martjustin
+- Book a call: https://calendly.com/justin_m01/30min
+- Email: justin_m01@outlook.com

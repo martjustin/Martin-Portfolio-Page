@@ -1,0 +1,31 @@
+# Martin Azihaiwe-Justin — Portfolio
+# All crawlers welcome, including AI/LLM crawlers — this site wants to be
+# discovered and cited by AI search tools.
+
+User-agent: *
+Allow: /
+
+# Explicit AI/LLM crawler allowances (belt-and-suspenders — the wildcard
+# above already covers these, but some crawlers only respect a named rule)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://martjustin.vercel.app/sitemap.xml
